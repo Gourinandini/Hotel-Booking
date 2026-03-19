@@ -91,3 +91,5 @@ hotel-booking/
 - "Cannot connect to API" → Make sure `python main.py` is running in a separate terminal
 - "MongoDB connection error" → Check your Atlas connection string, make sure IP whitelist is set to 0.0.0.0/0
 - "Module not found" → Run `pip install <module_name>`
+=======
+# Hotel-Booking
