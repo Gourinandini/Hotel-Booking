@@ -79,7 +79,6 @@ This is a **collaborative project**.
 * Worked as part of a team to design and develop the frontend interface
 * Contributed to UI development and project structure
 
-*(You can add specific roles if needed — like UI, logic, etc.)*
 
 ---
 
@@ -97,4 +96,3 @@ Developed as part of a **group project**
 
 ---
 
-If you want, I can make a **strong resume bullet (1–2 lines)** from this that still sounds impressive even though it’s frontend-only 👍
