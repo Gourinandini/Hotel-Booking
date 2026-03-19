@@ -1,38 +1,33 @@
-Got it — since it’s a **group project** *and currently frontend-only*, your README should reflect both clearly and professionally.
 
-Here’s a clean final version 👇
-
----
-
+````markdown
 # 🏨 Hotel Booking System (Frontend)
 
-A **group project** focused on developing the frontend of a hotel booking system using Streamlit, designed to simulate user interactions for booking management.
+A **group project (ongoing)** focused on developing the frontend of a hotel booking system using Streamlit, designed to simulate user interactions for booking management.
 
 ---
 
 ## 🚀 Project Overview
 
-This project currently implements the **frontend interface** of a hotel booking system.
+This project currently implements the **frontend interface** of a hotel booking system.  
 It allows users to explore booking workflows through an interactive UI.
 
-> ⚠️ Backend, database, and automation modules are planned as future enhancements.
+> ⚠️ Backend, database, and automation modules are **under development**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** Streamlit
-* **Language:** Python
+- **Frontend:** Streamlit  
+- **Language:** Python  
 
 ---
 
 ## ⚙️ Setup Instructions
 
 ### 1. Install Dependencies
-
 ```bash
 pip install streamlit
-```
+````
 
 ---
 
@@ -48,14 +43,14 @@ The application will open automatically in your browser.
 
 ## 📂 Project Structure
 
-```
+```bash
 hotel-booking/
   app.py   ← Streamlit frontend
 ```
 
 ---
 
-## 💡 Features
+## 💡 Current Features
 
 * Interactive booking interface
 * Clean and simple UI design
@@ -63,36 +58,36 @@ hotel-booking/
 
 ---
 
-## 🔄 Future Scope
+## 🔄 Upcoming Features
 
 * FastAPI backend integration
 * Database connectivity (SQLite / MongoDB)
 * Automated booking generation
-* Scalable architecture for real-world use
+* Scalable system design
 
 ---
 
 ## 👥 Team Contribution
 
-This is a **collaborative project**.
+This is a **collaborative ongoing project**.
 
-* Worked as part of a team to design and develop the frontend interface
-* Contributed to UI development and project structure
-
+* Contributing to frontend development using Streamlit
+* Participating in UI design and feature planning
+* Collaborating on overall system architecture
 
 ---
 
 ## 🎯 Learning Outcomes
 
 * Frontend development using Streamlit
-* Building user-centric interfaces
-* Collaboration in a team project
+* Designing user-friendly interfaces
+* Working in a team-based development environment
 
 ---
 
 ## 👩‍💻 Authors
 
-Developed as part of a **group project**
+Developed as part of a **group project (ongoing)**
 
----
-
+```
+```
